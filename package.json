@@ -1,0 +1,27 @@
+{
+  "name": "offset-timezones",
+  "version": "1.0.0",
+  "description": "Change offsets of datetimes to timezones",
+  "main": "index.json",
+  "dependencies": {},
+  "devDependencies": {
+    "zoneinfo": "^0.1.8"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amattson21/offset-timezones"
+  },
+  "keywords": [
+    "timezone",
+    "iana",
+    "offset",
+    "name",
+    "data",
+    "time"
+  ],
+  "author": "Alex Mattson",
+  "license": "MIT",
+  "bugs": {},
+  "homepage": "https://github.com/amattson21/offset-timezones"
+}
